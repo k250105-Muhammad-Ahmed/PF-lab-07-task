@@ -24,8 +24,9 @@ int main(){
 	result=max-min;
 	
 	printf("Max:%d",max);
-	printf("Min:%d",Min);
+	printf("Min:%d",min);
 	printf("Re%d",result);
 	
 	return 0;
 }
+
